@@ -2,19 +2,54 @@ project:
   type: website
   output-dir: docs
 
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
 website:
-  title: "chrissl789.github.io"
+  title: "Chris (James C.) Slaughter"
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+
+    # your social media handles
+    right:
+    - icon: github
+      text: Github
+      href: https://github.com/chrissl789
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chris-slaughter-5976094/
+    - icon: envelope
+      text: Email
+      href: "mailto:james.c.slaughter@vumc.org"  
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+editor: source
 
-editor: visual
+
+execute:
+  freeze: true
 
