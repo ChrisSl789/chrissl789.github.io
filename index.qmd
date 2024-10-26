@@ -1,11 +1,27 @@
 ---
-title: "chrissl789.github.io"
+about:
+  template: jolla
+  id: about-block
+  image: "img/Slaughter-Chris.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/chrissl789
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/chris-slaughter-5976094/
+    - icon: envelope
+      text: Email
+      href: "mailto:james.c.slaughter@vumc.org"  
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Introduction
 
-```{r}
-1 + 1
-```
+Welcome to website
+
+Introduction
+
+
