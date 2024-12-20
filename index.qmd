@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/Slaughter-Chris.jpg"
+  image: "img/headshot-cropped.jpg"
   links:
     - icon: github
       text: Github
@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/chris-slaughter-5976094/
     - icon: envelope
       text: Email
-      href: "mailto:james.c.slaughter@vumc.org"  
+      href: "mailto:james.c.slaughter@vumc.org"
 ---
 
 ::: {#about-block}
