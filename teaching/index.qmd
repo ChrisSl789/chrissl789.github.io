@@ -5,7 +5,7 @@ title: Teaching
 # Current Courses
 
 - Epi 8323: Design and Analysis with Time to Event Data (Spring 2014-present)
-- Bios 8312: Modern Regression Analysis (Spring 2024-present)
+- Bios 8312: [Modern Regression Analysis](https://chrissl789.github.io/modern-regression/) (Spring 2024-present)
 
 
 # Past courses
