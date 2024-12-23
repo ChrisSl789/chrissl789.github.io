@@ -20,8 +20,64 @@ about:
 
 # Introduction
 
-Welcome to website
+Hello and welcome!
 
-Introduction
+I'm Dr. James Christopher (Chris) Slaughter, an Associate Professor in the Department of Biostatistics at Vanderbilt University Medical Center. Focused on advancing statistical methodologies and committed to collaborative research, I am dedicated to making significant contributions to the field of Biostatistics and its applications in health sciences.
 
+# Research Interests
+
+My research interests include:
+
+- Longitudinal Data Analysis for Observational Studies
+- Latent Variable Methods
+- Bayesian Statistics
+- Pediatrics, Gastroenterology, and Reproductive Health applications
+
+# Education
+
+- DrPH in Biostatistics (2007)
+   * University of North Carolina at Chapel Hill
+   * Dissertation: Bayesian Latent Variable Methods for Fetal Growth and Development
+   * Advisor: Amy H. Herring
+
+- MS in Biostatistics (2000)
+   * University of Washington
+   * Advisor: Thomas Lumley
+
+- BS in Cell and Molecular Biology (1998)
+- BS in Mathematics (1998)
+   * Tulane University
+
+# Work Experience
+
+- Associate Professor (2015-Present)
+   * Vanderbilt University, Department of Biostatistics
+
+- Assistant Professor (2007-2015)
+   * Vanderbilt University, Department of Biostatistics
+
+- Research Scientist (2000-2002)
+   * UW-EPA NW Research Center for Particulate Matter and Health
+
+# Courses Taught
+
+I have had the privilege of teaching several courses, including:
+
+- Epi 8323: Design and Analysis with Time to Event Data (Spring 2014-present)
+- Bios 8312: Modern Regression Analysis (Spring 2010-2013)
+- IGP 304: Statistics for Biomedical Research (Spring 2008-2009)
+- Statistical Thinking in Biomedical Research (2007-2011)
+
+# Vanderbilt Collaborations
+
+I am actively involved in collaborative research with various departments at Vanderbilt University Medical Center, including:
+
+- Gastroenterology
+- Neonatology
+- Vaccine Center
+- Pediatrics
+
+# Short Bio
+
+I received my doctorate from the University of North Carolina at Chapel Hill and my Master’s from the University of Washington. My research focuses on developing flexible Bayesian models for longitudinal data. I am particularly interested in collaborative research and work closely with investigators in Pediatrics, Neonatology, and Gastroenterology.
 

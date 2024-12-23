@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nIntroduction\nHello and welcome!\nI’m Dr. James Christopher (Chris) Slaughter, an Associate Professor in the Department of Biostatistics at Vanderbilt University Medical Center. Focused on advancing statistical methodologies and committed to collaborative research, I am dedicated to making significant contributions to the field of Biostatistics and its applications in health sciences.\n\n\nResearch Interests\nMy research interests include:\n\nLongitudinal Data Analysis for Observational Studies\nLatent Variable Methods\nBayesian Statistics\nPediatrics, Gastroenterology, and Reproductive Health applications\n\n\n\nEducation\n\nDrPH in Biostatistics (2007)\n\nUniversity of North Carolina at Chapel Hill\nDissertation: Bayesian Latent Variable Methods for Fetal Growth and Development\nAdvisor: Amy H. Herring\n\nMS in Biostatistics (2000)\n\nUniversity of Washington\nAdvisor: Thomas Lumley\n\nBS in Cell and Molecular Biology (1998)\nBS in Mathematics (1998)\n\nTulane University\n\n\n\n\nWork Experience\n\nAssociate Professor (2015-Present)\n\nVanderbilt University, Department of Biostatistics\n\nAssistant Professor (2007-2015)\n\nVanderbilt University, Department of Biostatistics\n\nResearch Scientist (2000-2002)\n\nUW-EPA NW Research Center for Particulate Matter and Health\n\n\n\n\nCourses Taught\nI have had the privilege of teaching several courses, including:\n\nEpi 8323: Design and Analysis with Time to Event Data (Spring 2014-present)\nBios 8312: Modern Regression Analysis (Spring 2010-2013)\nIGP 304: Statistics for Biomedical Research (Spring 2008-2009)\nStatistical Thinking in Biomedical Research (2007-2011)\n\n\n\nVanderbilt Collaborations\nI am actively involved in collaborative research with various departments at Vanderbilt University Medical Center, including:\n\nGastroenterology\nNeonatology\nVaccine Center\nPediatrics\n\n\n\nShort Bio\nI received my doctorate from the University of North Carolina at Chapel Hill and my Master’s from the University of Washington. My research focuses on developing flexible Bayesian models for longitudinal data. I am particularly interested in collaborative research and work closely with investigators in Pediatrics, Neonatology, and Gastroenterology."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Current Courses\n\nEpi 8323: Design and Analysis with Time to Event Data (Spring 2014-present)\nBios 8312: Modern Regression Analysis (Spring 2024-present)\n\n\n\nPast courses\n\nBios 8312: Modern Regression Analysis (Spring 2010-2013)\nIGP 304: Statistics for Biomedical Research (Spring 2008-2009)\nStatistical Thinking in Biomedical Research (2007-2011)"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +21,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nIntroduction\nWelcome to website\nIntroduction"
+    "text": "I will add a full list in the future. For now, here are a couple of links\nGoogle Scholar"
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed-manuscripts",
+    "href": "publications/index.html#peer-reviewed-manuscripts",
+    "title": "Publications",
+    "section": "",
+    "text": "I will add a full list in the future. For now, here are a couple of links\nGoogle Scholar"
   }
 ]

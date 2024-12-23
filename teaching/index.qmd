@@ -2,5 +2,14 @@
 title: Teaching
 ---
 
-## Courses
+# Current Courses
 
+- Epi 8323: Design and Analysis with Time to Event Data (Spring 2014-present)
+- Bios 8312: Modern Regression Analysis (Spring 2024-present)
+
+
+# Past courses
+
+- Bios 8312: Modern Regression Analysis (Spring 2010-2013)
+- IGP 304: Statistics for Biomedical Research (Spring 2008-2009)
+- Statistical Thinking in Biomedical Research (2007-2011)
