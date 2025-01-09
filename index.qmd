@@ -22,7 +22,8 @@ about:
 
 Hello and welcome!
 
-I'm Dr. James Christopher (Chris) Slaughter, an Associate Professor in the Department of Biostatistics at Vanderbilt University Medical Center. Focused on advancing statistical methodologies and committed to collaborative research, I am dedicated to making significant contributions to the field of Biostatistics and its applications in health sciences.
+I'm James Christopher (Chris) Slaughter, an Associate Professor in the Department of Biostatistics at Vanderbilt University Medical Center.  This is my professional web page, which is currently under development.
+
 
 # Research Interests
 

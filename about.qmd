@@ -2,8 +2,26 @@
 title: "About"
 ---
 
-About this site
+Welcome to my personal website! This site was built using Quarto, an open-source scientific and technical publishing system.
 
-```{r}
-1 + 1
-```
+#### Why I Chose Quarto
+
+Quarto is a powerful and flexible tool that allows users to create high-quality documents, presentations, and websites. Here are a few reasons why I chose to use Quarto for this website:
+
+- Flexibility: Quarto supports a wide range of output formats, making it easy to create and publish content in various formats, including HTML, PDF, Word, and more.
+- Interactivity: With Quarto, I can embed interactive elements such as code snippets, visualizations, and more, making the content on this site more engaging and informative.
+- Reproducibility: As someone who values reproducible research and transparent workflows, Quarto's integration with tools like R, Python, and Jupyter is invaluable.
+- Ease of Use: Quarto makes it simple to write and format content using Markdown, while also allowing for the inclusion of more complex elements through its powerful rendering engine.
+
+#### About Quarto
+
+Quarto is designed to make it easy to create, publish, and share high-quality scientific and technical content. Whether you're writing reports, creating interactive tutorials, or building a personal website like this one, Quarto has the tools you need to get the job done.
+
+Some key features of Quarto include:
+- Support for multiple programming languages, including R, Python, and Julia.
+- Seamless integration with Jupyter and R Markdown.
+- A wide range of output formats and customization options.
+- An active and supportive community of users and developers.
+
+For more information about Quarto, visit the official [Quarto website](https://quarto.org).
+
