@@ -80,5 +80,6 @@ I am actively involved in collaborative research with various departments at Van
 
 # Short Bio
 
-I received my doctorate from the University of North Carolina at Chapel Hill and my Master’s from the University of Washington. My research focuses on developing flexible Bayesian models for longitudinal data. I am particularly interested in collaborative research and work closely with investigators in Pediatrics, Neonatology, and Gastroenterology.
+I am an Associate Professor of Biostatistics at Vanderbilt University Medical Center. I received my M.S. in Biostatistics from the University of Washington and my Dr.P.H. in Biostatistics from the University of North Carolina at Chapel Hill, where my doctoral research focused on Bayesian latent variable models for longitudinal processes.
 
+My work centers on collaborative research across a wide range of clinical areas, including pediatrics, gastroenterology, and infectious disease. I partner with investigators on the design and analysis of clinical trials and observational studies, with particular interests in longitudinal data and Bayesian modeling. In addition to my collaborative work, I also teach graduate courses in regression methods and survival analysis and mentor trainees from biostatistics, epidemiology, and clinical disciplines
