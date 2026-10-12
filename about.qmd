@@ -2,26 +2,12 @@
 title: "About"
 ---
 
-Welcome to my personal website! This site was built using Quarto, an open-source scientific and technical publishing system.
+I am an Associate Professor of Biostatistics at Vanderbilt University Medical Center. My work centers on collaborative research in pediatrics, gastroenterology, neonatology, and infectious disease, with methodological interests in longitudinal data analysis and Bayesian latent variable models.
 
-#### Why I Chose Quarto
+See the [Home page](index.qmd) for my education, work experience, and short bio, and the [Teaching](teaching/index.qmd), [Projects](projects/index.qmd), and [Publications](publications/index.qmd) pages for more.
 
-Quarto is a powerful and flexible tool that allows users to create high-quality documents, presentations, and websites. Here are a few reasons why I chose to use Quarto for this website:
+#### About this site
 
-- Flexibility: Quarto supports a wide range of output formats, making it easy to create and publish content in various formats, including HTML, PDF, Word, and more.
-- Interactivity: With Quarto, I can embed interactive elements such as code snippets, visualizations, and more, making the content on this site more engaging and informative.
-- Reproducibility: As someone who values reproducible research and transparent workflows, Quarto's integration with tools like R, Python, and Jupyter is invaluable.
-- Ease of Use: Quarto makes it simple to write and format content using Markdown, while also allowing for the inclusion of more complex elements through its powerful rendering engine.
+This site is built with [Quarto](https://quarto.org) and hosted on GitHub Pages. Quarto lets me write pages in Markdown and embed R code and output directly, which supports the reproducible, transparent workflows I value in my research.
 
-#### About Quarto
-
-Quarto is designed to make it easy to create, publish, and share high-quality scientific and technical content. Whether you're writing reports, creating interactive tutorials, or building a personal website like this one, Quarto has the tools you need to get the job done.
-
-Some key features of Quarto include:
-- Support for multiple programming languages, including R, Python, and Julia.
-- Seamless integration with Jupyter and R Markdown.
-- A wide range of output formats and customization options.
-- An active and supportive community of users and developers.
-
-For more information about Quarto, visit the official [Quarto website](https://quarto.org).
-
+The source is available on [GitHub](https://github.com/chrissl789/chrissl789.github.io).
